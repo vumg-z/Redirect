@@ -1,6 +1,8 @@
 ### Stand-by
 
-Pagina creada para ponerla de mientras
+Pagina creada para poner temporalmente en tu portafolio 
+
+[Live Demo](http://urielmendoza.xyz/)
 
 ### Screen
 
