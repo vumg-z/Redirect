@@ -1,0 +1,30 @@
+@mixin fontstyle {
+    font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans,
+      Helvetica Neue, Arial, sans-serif;
+    font-size: 2.3em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+  }
+  
+body{
+    margin: 0;
+}
+
+section {
+    height: 100vh;
+    display: grid;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+  h2 {
+      @include fontstyle;
+      margin-top: 5em;
+  }
+  .guy{
+    width: 10%;
+    margin-bottom: 15em;
+  }
+}
+
