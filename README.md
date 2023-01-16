@@ -1,8 +1,8 @@
 ### Stand-by
 
-Pagina creada para poner temporalmente en tu portafolio 
+Leer descripcion
 
-[Live Demo](https://vumg-z.github.io/Temporal-Portafolio/)
+[Live Demo]()
 
 ### Screen
 
