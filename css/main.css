@@ -4,17 +4,13 @@ body {
 
 section {
   height: 100vh;
-  display: -ms-grid;
   display: grid;
   text-align: center;
   justify-items: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
-
 section h2 {
-  font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
+  font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
   font-size: 2.3em;
   font-style: normal;
   font-variant: normal;
@@ -22,9 +18,7 @@ section h2 {
   line-height: 26.4px;
   margin-top: 5em;
 }
-
 section .guy {
-  width: 10%;
+  width: 10em;
   margin-bottom: 15em;
-}
-/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
